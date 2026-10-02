@@ -1,0 +1,8 @@
+{
+  "name": "المملكة للإلكترونيات",
+  "description": "تطبيق المملكة للإلكترونيات لإدارة الفواتير، العملاء، السندات، الحسابات والتقارير المالية",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
