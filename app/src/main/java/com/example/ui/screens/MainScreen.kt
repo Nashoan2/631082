@@ -48,6 +48,7 @@ import androidx.compose.material.icons.filled.Delete
 import androidx.compose.material.icons.filled.Description
 import androidx.compose.material.icons.filled.Folder
 import androidx.compose.material.icons.filled.Payments
+import com.example.ui.theme.parseHexColor
 import androidx.compose.material.icons.filled.People
 import androidx.compose.material.icons.filled.Percent
 import androidx.compose.material.icons.filled.PhoneAndroid

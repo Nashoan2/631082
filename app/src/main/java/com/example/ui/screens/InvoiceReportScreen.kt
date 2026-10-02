@@ -1305,6 +1305,7 @@ fun InvoiceReportScreen(
     }
   }
 }
+}
 
 fun calculateAutoShrinkFontSize(text: String, baseFontSizeSp: Float, isSingleLine: Boolean = false): Float {
   if (text.isBlank()) return baseFontSizeSp
